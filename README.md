@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohannazakizadeh
 - 👀 I’m interested in programming and psychology:)
-- 🌱 I’m currently learning swift language 
-- 💞️ I’m looking to collaborate on swift projects 
+- 🌱 I’m currently building stuff with swift language 
 - 📫 How to reach me mohannazakizadeh@icloud.com
 
 <!---
